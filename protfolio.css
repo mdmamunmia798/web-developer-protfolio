@@ -38,6 +38,43 @@ nav {
 .section-title{
     text-align: center;
 }
+/* skills related style */
 #what-i-do-description{
     padding: 30px 650px;
+}
+#what-i-do-Instagram{
+    padding: 30px 650px;
+}
+.skills-continer{
+    disply: flex;
+}
+.skills-developer{
+    disply: flex;
+}
+.skills-developer-footer{
+    disply: flex;
+}
+.skil{
+    padding: 20px;
+    gap: 20px;
+}
+.skills-description{
+    padding: 25px;
+}
+.banner body{
+    padding: 230px 340px 420px 950px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic {
+    width: 300px;
+    height: 400px;
+    flex-shrink: 0;
+}
+
+.banner-body-title {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 }
