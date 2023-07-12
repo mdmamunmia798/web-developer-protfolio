@@ -1,0 +1,28 @@
+
+/* nav related styles */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px;
+}
+.nav-title {
+    color: #181818;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+/* header releted style */
+.header{
+    background: rgba(189, 72, 97, 0.1);
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0; 
+}
